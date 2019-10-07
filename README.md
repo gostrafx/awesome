@@ -41,6 +41,8 @@
 ### Vuejs
 - https://github.com/vuejs/awesome-vue
 - https://github.com/meSingh/awesome-vuejs
+- https://github.com/vuejs-tips/cheatsheet
+- https://github.com/vuejs-tips/vuex-cheatsheet
 
 ### Angular
 - https://github.com/PatrickJS/awesome-angular
@@ -82,6 +84,7 @@
 - https://github.com/petk/awesome-jquery
 
 ### Php
+- https://github.com/Errorname/clean-code-php
 - https://github.com/ziadoz/awesome-php
 - https://github.com/chiraggude/awesome-laravel
 - https://github.com/codeigniter-id/awesome-codeigniter
