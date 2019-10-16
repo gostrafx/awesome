@@ -75,7 +75,7 @@
 
 ### Nodejs
 - https://github.com/sindresorhus/awesome-nodejs
-- https://github.com/goldbergyoni/nodebestpractices
+
 ### Electron
 - https://github.com/sindresorhus/awesome-electron
 
