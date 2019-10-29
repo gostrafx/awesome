@@ -18,6 +18,7 @@
 - [Javascript](#Javascript)
 - [Php](#Php)
 - [Rest](#Rest)
+- [Htaccess](#htaccess)
 - [Uikit](#Uikit)
 - [Lua](#Lua)
 
@@ -91,6 +92,9 @@
 
 ### Rest
 - https://github.com/marmelab/awesome-rest
+
+### Htaccess
+- https://github.com/phanan/htaccess#alias-paths-to-script
 
 ### Uikit
 - https://github.com/jaywcjlove/awesome-uikit
