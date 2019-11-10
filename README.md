@@ -9,17 +9,19 @@
 - [Angular](#Angular)
 - [Ionic](#Ionic)
 - [Stencil](#Stencil)
-- [Public Apis](#Public-Apis)
-- [Cheatsheet](#Cheatsheet)
-- [Hacking](#Hacking)
 - [Webcomponents](#Webcomponents)
 - [Nodejs](#Nodejs)
 - [Electron](#Electron)
 - [Javascript](#Javascript)
+- [Jquery](#jquery)
+- [Paw](#Paw)
 - [Php](#Php)
 - [Rest](#Rest)
 - [Htaccess](#htaccess)
 - [Uikit](#Uikit)
+- [Public Apis](#Public-Apis)
+- [Cheatsheet](#Cheatsheet)
+- [Hacking](#Hacking)
 - [Lua](#Lua)
 
 ### Awesome
@@ -41,6 +43,7 @@
 
 ### Vuejs
 - https://github.com/vuejs/awesome-vue
+- https://github.com/kefranabg/awesome-vue-composition-api
 - https://github.com/meSingh/awesome-vuejs
 - https://github.com/vuejs-tips/cheatsheet
 - https://github.com/vuejs-tips/vuex-cheatsheet
@@ -59,18 +62,6 @@
 - https://github.com/Alexintosh/awesome-stencil
 - https://github.com/mappmechanic/awesome-stenciljs
 
-### Public Apis
-- https://github.com/n0shake/Public-APIs
-- https://github.com/toddmotto/public-apis
-- https://github.com/TonnyL/Awesome_APIs
-
-### Cheatsheet
-- https://github.com/detailyang/awesome-cheatsheet
-- https://github.com/tiimgreen/github-cheat-sheet
-
-### Hacking
-- https://github.com/Hack-with-Github/Awesome-Hacking
-
 ### Webcomponents
 - https://github.com/obetomuniz/awesome-webcomponents
 
@@ -82,7 +73,13 @@
 
 ### Javascript
 - https://github.com/sorrycc/awesome-javascript
+
+### Jquery
 - https://github.com/petk/awesome-jquery
+
+### Paw
+- https://github.com/hemanth/awesome-pwa
+- https://pwa.rocks/
 
 ### Php
 - https://github.com/Errorname/clean-code-php
@@ -95,6 +92,18 @@
 
 ### Htaccess
 - https://github.com/phanan/htaccess#alias-paths-to-script
+
+### Public Apis
+- https://github.com/n0shake/Public-APIs
+- https://github.com/toddmotto/public-apis
+- https://github.com/TonnyL/Awesome_APIs
+
+### Cheatsheet
+- https://github.com/detailyang/awesome-cheatsheet
+- https://github.com/tiimgreen/github-cheat-sheet
+
+### Hacking
+- https://github.com/Hack-with-Github/Awesome-Hacking
 
 ### Uikit
 - https://github.com/jaywcjlove/awesome-uikit
