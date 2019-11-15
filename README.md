@@ -27,6 +27,7 @@
 ### Awesome
 - https://github.com/sindresorhus/awesome
 - https://github.com/terkelg/awesome-creative-coding
+- https://github.com/stackshareio/awesome-stacks
 
 ### Design
 - https://github.com/LisaDziuba/Awesome-Design-Tools
