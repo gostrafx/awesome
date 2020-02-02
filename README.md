@@ -92,7 +92,7 @@
 - https://github.com/marmelab/awesome-rest
 
 ### Htaccess
-- https://github.com/phanan/htaccess#alias-paths-to-script
+- https://github.com/phanan/htaccess
 
 ### Public Apis
 - https://github.com/n0shake/Public-APIs
